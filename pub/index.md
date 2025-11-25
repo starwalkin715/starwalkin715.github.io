@@ -1,4 +1,4 @@
-<h1>Publications</h1>
+<h1>Selected Publications</h1>
 <div id="bibtex_display" callback="removeExtraFields(bibtex_display)">
     <div class="bibtex_template" style="display: none;">
         <ul>
