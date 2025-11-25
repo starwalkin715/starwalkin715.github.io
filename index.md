@@ -14,5 +14,5 @@ Undergraduate student in [Computer Science (Elite Class)](https://ghc.tongji.edu
 
 ## Internship
 - **[University of California, Davis](https://www.ucdavis.edu/)**
-Advised by [Prof. Huang](https://wilburone.github.io/)
+Advised by [Prof. Huang](https://wilburone.github.io/). Jan 2025 - Present.
 
