@@ -1,14 +1,18 @@
-# Shuangyu Cai (蔡双羽)
+# Kaijie Chen
 
-I am an undergraduate student in Yao Class, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/) at Tsinghua University in Beijing, China. My research interests lie in both computer systems and machine learning. Here is my [CV](/assets/CV.pdf).
+- I am a 4-th year undergraduate student majoring in [Computer Science (Elite Class)](https://ghc.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn/) in Shanghai, China.
+
+- I am sincerely grateful to the respected professors, wonderful postdocs, inspiring PhD seniors, and outstanding undergraduates who generously offered me help during my undergraduate years.
+
+## News
+- I am seeking PhD opportunities starting in Fall 2026. Please feel free to reach out.
 
 ## Education
 
-- **Tsinghua University**
-Undergraduate student in Yao Class, [IIIS](https://iiis.tsinghua.edu.cn/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep 2021 - Present.
+- **[Tongji University](https://en.tongji.edu.cn/)**
+Undergraduate student in [Computer Science (Elite Class)](https://ghc.tongji.edu.cn/). Sep 2022 - Present.
 
-## Experience
-
-- **University of California, Davis**
-Research Intern, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/). Feb 2024 - Aug 2024.
+## Internship
+- **[University of California, Davis](https://www.ucdavis.edu/)**
+Advised by [Prof. Huang](https://wilburone.github.io/)
 
